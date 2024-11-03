@@ -1,0 +1,22 @@
+{ entity: "smile_kpi_program_details", datafield: "smile_day", pt:"", en: "Day", fr: "", es: "" },
+{ entity: "smile_kpi_program_details", datafield: "smile_numberpatientsoperated", pt:"", en: "Number Patients Operated", fr: "", es: "" },
+{ entity: "smile_kpi_program_details", datafield: "smile_timeoff", pt:"", en: "Time off", fr: "", es: "" },
+{ entity: "smile_kpi_program_details", datafield: "smile_timeon", pt:"", en: "Time on", fr: "", es: "" },
+
+{ entity: "smile_kpi_medical_events", datafield: "smile_chart", pt:"", en: "Chart", fr: "", es: "" },
+{ entity: "smile_kpi_medical_events", datafield: "smile_categoryofmedicalevent", pt:"", en: "Category of Medical Event", fr: "", es: "" },
+{ entity: "smile_kpi_medical_events", datafield: "smile_reportsubmittedtoquality", pt:"", en: "Report Submitted to Quality", fr: "", es: "" },
+
+
+{ entity: "smile_kpi_blood_borne_exposure", datafield: "smile_chart", pt:"", en: "Chart", fr: "", es: "" },
+{ entity: "smile_kpi_blood_borne_exposure", datafield: "smile_reportsubmittedtoquality", pt:"", en: "Report Submitted to Quality", fr: "", es: ""},
+
+{ entity: "smile_kpi_procedure_deviations", datafield: "smile_proceduretype", pt:"", en: "Procedure Type", fr: "", es: "" },
+{ entity: "smile_kpi_procedure_deviations", datafield: "smile_didrmoapprove", pt:"", en: "Did RMO approve?", fr: "", es: "" },
+{ entity: "smile_kpi_procedure_deviations", datafield: "smile_reportsubmittedquality", pt:"Relatório enviado para a qualidade", en: "", fr: "", es: "" },
+
+{ entity: "smile_kpi_complications", datafield: "smile_chart", pt:"", en: "Chart", fr: "", es: "" },
+{ entity: "smile_kpi_complications", datafield: "smile_obsercacao", pt:"", en: "Observation", fr: "", es: "" },
+{ entity: "smile_kpi_complications", datafield: "smile_postoperative", pt:"", en: "Post-operative", fr: "", es: "" },
+{ entity: "smile_kpi_complications", datafield: "smile_proceduretype", pt:"", en: "Procedure Type", fr: "", es: "" },
+{ entity: "smile_kpi_complications", datafield: "smile_type", pt:"", en: "Type", fr: "", es: "" }

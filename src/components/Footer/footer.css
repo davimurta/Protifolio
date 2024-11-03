@@ -1,0 +1,17 @@
+.footer {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 405vh;
+  left: 40px;
+  transition: all 0.3s ease;
+  height: 20dvh;
+  z-index: 1;
+  width: 1600px;
+  padding: 10rem 9% 2rem 400px;
+}
+
+.footer p {
+  font-size: 2rem;
+}

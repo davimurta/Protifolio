@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Operation Smiles",
+    "description": "Atualmente, estou envolvido no projeto da Microsoft Operation Smile, que visa desenvolver soluções tecnológicas para apoiar a missão de oferecer tratamentos cirúrgicos para crianças com fendas labiais e palatinas. Este projeto me proporciona a oportunidade de aplicar minhas habilidades em um contexto social significativo, contribuindo para um impacto positivo na vida das pessoas.",
+    "image": "/tamplateOperationSmiles.png"
+  },
+  {
+    "id": 2,
+    "name": "Portfólio",
+    "description": "Estou desenvolvendo um portfólio em React que destaca minhas habilidades e experiências como desenvolvedor. O projeto apresenta seções sobre meus trabalhos anteriores e competências técnicas, utilizando componentes reutilizáveis para uma navegação fluida e uma experiência de usuário agradável. Esse portfólio é uma vitrine do meu trabalho e um passo importante na construção da minha identidade profissional.",
+    "image": "/portifolio.png"
+  }
+]
